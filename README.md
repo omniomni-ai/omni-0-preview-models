@@ -87,7 +87,7 @@ All Omni experts are finetuned from their base model: [SmolLM2 1.7B Instruct](ht
 **Multi-disciplinary** Omni's first variant achieves state-of-the-art performance across STEM compared to alternative optimization techniques.
 
 # Merging
-This repository contains the merging configuration for omni-0-mini-preview. To replicate our merge, first install Arcee AI's mergekit:
+This repository contains the merging configuration for omni-0-mini-preview. To replicate its merge, first install Arcee AI's mergekit:
 
 ```bash
 git clone https://github.com/arcee-ai/mergekit.git
@@ -96,9 +96,10 @@ cd mergekit
 pip install -e .  # install the package and make scripts available
 ```
 
-After installing, clone this repository and make it the terminal's current directory:
+After installing, clone this repository and set it as your terminal's current directory:
 
 ```bash
+git clone https://github.com/omniomni-ai/omni-0-preview-models.git
 cd omni-0-preview-models
 ```
 

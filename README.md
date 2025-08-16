@@ -12,7 +12,7 @@
 
 # Omni 0 Preview Models
 
-Omni 0 preview models are a series of 1.7B parameter LLMs optimized for STEM knowledge consisting of 4 expert models and one final merged output between all experts. Experts include: [Science Expert](https://huggingface.co/omniomni/omni-0-science-preview),  [Technology Expert](https://huggingface.co/omniomni/omni-0-technology-preview), [Engineering Expert](https://huggingface.co/omniomni/omni-0-engineering-preview),  [Math Expert](https://huggingface.co/omniomni/omni-0-math-preview). Through DARE-TIES merging, Omni is able to achieve state-of-the-art efficiency and domain benchmark results among alternative optimization techniques, as well as optimal compute-knowledge efficiency across similar models.
+Omni 0 preview models are a series of 1.7B parameter LLMs optimized for STEM knowledge consisting of 4 expert models and one final merged output between all experts. Experts include: [Science Expert](https://huggingface.co/omniomni/omni-0-science-preview),  [Technology Expert](https://huggingface.co/omniomni/omni-0-technology-preview), [Engineering Expert](https://huggingface.co/omniomni/omni-0-engineering-preview),  [Math Expert](https://huggingface.co/omniomni/omni-0-math-preview). Through DARE-TIES merging, Omni is able to achieve state-of-the-art domain benchmark results among alternative optimization techniques, as well as optimal compute-knowledge efficiency across similar models, performing comparably with them.
 
 <p align="center">
   <figure>

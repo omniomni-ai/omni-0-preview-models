@@ -22,9 +22,6 @@ Omni 0 preview models are a series of 1.7B parameter LLMs optimized for STEM kno
 </figure>
 </p>
 
-> [!Note]
-> This model card is for [omni-0-science-preview](https://huggingface.co/omniomni/omni-0-science-preview). All other models can be found on [Omni's HuggingFace page](https://huggingface.co/omniomni)
-
 # Benchmarks
 **Expert Model Benchmarks**
 |Benchmark            | Science | Technology | Engineering | Math  |

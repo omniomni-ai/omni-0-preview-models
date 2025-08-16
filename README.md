@@ -16,8 +16,7 @@ Omni 0 preview models are a series of 1.7B parameter LLMs optimized for STEM kno
 
 <p align="center">
   <figure>
-  <img src="  
-https://github.com/omniomni-ai/omni-0-preview-models/raw/refs/heads/main/compute-knowledge-efficiency-plot.png"
+  <img src="https://github.com/omniomni-ai/omni-0-preview-models/raw/refs/heads/main/compute-knowledge-efficiency-plot.png"
        alt="Omni compute-knowledge efficiency plot">
   <figcaption>Omni achieves optimal compute-knowledge efficiency compared to alternative models</figcaption>
 </figure>

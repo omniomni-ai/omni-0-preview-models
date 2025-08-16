@@ -106,4 +106,4 @@ In the directory, run:
 mergekit-yaml ./omni-0-mini-preview.yml ./omni-0-mini-preview
 ```
 
-Running this command will now merge omni-0-mini-preview's expert models into a compact fused LLM through DARE-TIES.
+Running this command will now merge omni-0-mini-preview's expert models into a compact fused LLM that can be found in the local folder "omni-0-mini-preview"

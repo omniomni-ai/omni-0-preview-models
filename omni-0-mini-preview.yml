@@ -1,35 +1,35 @@
 # mergekit-yaml ./omni-0-mini-preview.yml ./omni-0-mini-preview
-# Merging configuration for omni-0-mini-preview
+# Merging configuration for omni-0-mini-preview. Placeholders for subdomain-specific experts.
 
 models:
 
-  - model: omniomni/omni-0-science-preview
+  - model: science-expert
     parameters:
       density: 0.5
       weight: 0.8
       
-  - model: omniomni/omni-0-technology-preview
+  - model: technology-expert
     parameters:
       density: 0.5
       weight: 0.8
       
-  - model: omniomni/omni-0-engineering-preview
+  - model: engineering-expert
     parameters:
       density: 0.5
       weight: 1.0
       
-  - model: omniomni/omni-0-math-preview
+  - model: math-expert
     parameters:
       density: 0.5
       weight: 1.0
 
-  - model: omniomni/base-modified-0
+  - model: base-model
     parameters:
       density: 0.5
       weight: 0.8
 
 merge_method: dare_ties
-base_model: omniomni/base-modified-0
+base_model: base-model
 
 parameters:
   normalize: true
